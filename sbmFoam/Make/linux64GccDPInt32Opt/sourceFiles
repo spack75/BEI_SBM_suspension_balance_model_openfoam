@@ -1,0 +1,4 @@
+SOURCE = \
+sbmFoam.C \
+
+# sources
